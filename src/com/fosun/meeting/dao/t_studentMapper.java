@@ -19,7 +19,7 @@ public interface t_studentMapper {
     List<t_student> selectByExample(t_studentExample example);
 
     t_student selectByPrimaryKey(Integer id);
-    //ÕâÊÇ²âÊÔµÄ×¢ÊÍ
+    //æµ‹è¯•çš„æ³¨é‡Š
     int updateByExampleSelective(@Param("record") t_student record, @Param("example") t_studentExample example);
 
     int updateByExample(@Param("record") t_student record, @Param("example") t_studentExample example);
