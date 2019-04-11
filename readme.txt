@@ -1,4 +1,4 @@
-Git is a distributed version control system.
+﻿Git is a distributed version control system.
 Git is free software distributed under the.
 i change .
 asdfsafasfsaf.
@@ -8,4 +8,4 @@ GGGGGGGG
 
 shdflkhsalkfhsaflkhsa
 
-f1
+f2
